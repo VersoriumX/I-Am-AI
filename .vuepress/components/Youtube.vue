@@ -7,7 +7,7 @@ export default {
         class: ['videoWrapper']
       },
       [
-        slots().default
+        slots().default 
       ]
     )
   }
