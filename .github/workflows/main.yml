@@ -6,7 +6,7 @@ name: Blob storage website CI
 # events but only for the main branch
 on:
   push:
-    branches: [ main ]
+    branches: [ I-AM-AI-X ]
     
 jobs:
   build:
