@@ -7,7 +7,7 @@
     "build": "vuepress build . --no-cache",
     "export": "EXPORT_PDF=True && vuepress export && mv site.pdf ./public/roadmap/AI_Expert_Roadmap_2021.pdf"
   },
-  "author": "Jürgen Stumpp",
+  "author": "Javaweh",
   "devDependencies": {
     "vuepress": "^1.9.2",
     "@snowdog/vuepress-plugin-pdf-export": "^1.1.0"
