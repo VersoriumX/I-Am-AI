@@ -2,7 +2,7 @@ const container = require('markdown-it-container');
 const fs = require('fs');
 module.exports = {
     title: 'AI Expert Roadmap',
-    description: 'The i.am.ai Experts Roadmap',
+    description: 'The i.am.ai Experts Roadmap', 
     dest: 'public/roadmap',
     base: '/roadmap/',
     themeConfig: {
