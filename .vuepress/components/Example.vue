@@ -7,7 +7,7 @@ export default {
         class: ['bs-docs-example']
       },
       [
-        slots().default
+        slots().default 
       ]
     )
   }
